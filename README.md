@@ -73,11 +73,6 @@ CO2-Emissions-Analysis/
 
 🚀 How to Run the Project
 
-Clone this repository
-
-git clone https://github.com/yourusername/CO2-Emissions-Analysis.git
-cd CO2-Emissions-Analysis
-
 
 Install dependencies
 
